@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4445850a-7ce8-450d-85f2-3b171f2a8ee5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bridgedbjs-demo.html" afterPath="$PROJECT_DIR$/bridgedbjs-demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pvjs-dev.bundle.js" afterPath="$PROJECT_DIR$/pvjs-dev.bundle.js" />
-    </list>
+    <list default="true" id="4445850a-7ce8-450d-85f2-3b171f2a8ee5" name="Default" comment="" />
     <ignored path="jcbwndsr.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -161,12 +158,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488877985129</updated>
-      <workItem from="1488877987199" duration="1330000" />
+      <workItem from="1488877987199" duration="1333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1330000" />
+    <option name="totallyTimeSpent" value="1333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
